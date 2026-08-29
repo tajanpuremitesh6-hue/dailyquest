@@ -66,19 +66,19 @@ Traditional to-do list applications often feel monotonous and transactional, lea
 ## 📸 Screenshots
 
 ### 1. Login & Authentication Screen
-![Login Screen](login.png)
+![Login Screen](./screenshots/login.png)
 
 ### 2. Dashboard Screen
-![Dashboard Screen](dashboard.png)
+![Dashboard Screen](./screenshots/dashboard.png)
 
 ### 3. Quest Management (Tasks) Screen
-![Tasks Screen](tasks.png)
+![Tasks Screen](./screenshots/tasks.png)
 
 ### 4. History & Analytics Screen
-![History & Analytics Screen](history.png)
+![History & Analytics Screen](./screenshots/history.png)
 
 ### 5. Settings & Profile Screen
-![Settings Screen](settings.png)
+![Settings Screen](./screenshots/settings.png)
 
 ---
 
